@@ -16,4 +16,5 @@ This is a simple speedloader for the Czech Small Arms' .22 LR conversion kit mag
 > - Initial beta
 
 ## License
-MIT License.
+Attribution-NonCommercial-ShareAlike 4.0 International
+http://creativecommons.org/licenses/by-nc-sa/4.0/
